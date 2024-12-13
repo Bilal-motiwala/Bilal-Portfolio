@@ -70,8 +70,8 @@ export default function Home() {
               <Image
                 src="/Bmstore1.png"
                 alt="BM-Store"
-                width={250}
-                height={20}
+                width={2200}
+                height={200}
                 className="rounded mb-4 w-full"
               />
               <br />
@@ -94,8 +94,8 @@ export default function Home() {
               <Image
                 src="/resumebuilder.png"
                 alt="Resume Builder"
-                width={250}
-                height={20}
+                width={2200}
+                height={200}
                 className="rounded mb-4 w-full"
               />
               <h4 className="text-xl font-bold mb-2">Resume Builder</h4>
@@ -116,8 +116,8 @@ export default function Home() {
             <div className="bg-white p-4 rounded-lg shadow-md">
               <Image src="/Ecommerce2.png"
                alt="E-commerce"
-               width={250}
-               height={20}
+               width={2200}
+               height={1000}
                className="rounded mb-4 w-full"
                />
               <h4 className="text-xl font-bold mb-2 mt-11">E-commerce </h4>
@@ -145,7 +145,7 @@ export default function Home() {
             If you dont like to work together or have any questions, feel free to reach out!
           </p>
           <Link
-            href="mailto:bilalmotiwala20@gmail.com"
+            href="https://bilalmotiwala20@gmail.com"
             className="bg-blue-500 text-white px-6 py-3 rounded-full font-medium hover:bg-blue-600"
           >
             Email Me
